@@ -10,4 +10,5 @@ Author: Avijit Biswas
 - Llamaindex
 - Gemini API
 
-![Blog Link](https://www.analyticsvidhya.com/blog/2024/05/building-a-product-discovery-api/)
+Blog Post
+https://www.analyticsvidhya.com/blog/2024/05/building-a-product-discovery-api/
